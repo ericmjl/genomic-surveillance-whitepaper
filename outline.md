@@ -1,11 +1,11 @@
 ## Outline
 
-1. Genomic Surveillance for Viral Infectious Agents
+1. Genomic Surveillance
     1. Defining genomic surveillance, and its purpose.
     1. Technologies:
         1.  Portable sequencers
         1.  Phylogenetic reconstruction
-1. Phenotypic Surveillance for Viral Infectious Agents
+1. Phenotypic Surveillance
     1. Defining phenotypic surveillance:
         1. Beyond drug susceptibility testing: determining biochemical properties of a virus' set of proteins.
     1. Most common use case: antibiotic drug resistance determination. (#citation required)
