@@ -4,7 +4,7 @@
     1. Defining genomic surveillance, and its purpose.
     1. Technologies:
         1.  Portable sequencers
-        1.  Phylogenetic reconstruction
+        1.  Benchtop sequencers
 1. Phenotypic Surveillance
     1. Defining phenotypic surveillance:
         1. Beyond drug susceptibility testing: determining biochemical properties of a virus' set of proteins.
