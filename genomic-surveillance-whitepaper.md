@@ -52,7 +52,7 @@ The HIV research community also has benefited from the **HIV Sequence Database**
 
 ## Phenotypic Surveillance
 
-### Purpose of Phenotypic Surveillance
+### Goals and Examples of Phenotypic Surveillance
 
 <!--Main point: Why do phenotypic surveillance -->
 
