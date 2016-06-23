@@ -7,6 +7,10 @@ date: 22 June 2016
 csl: nature.csl
 ---
 
+## Summary
+
+This whitepaper describes the current state-of-the-art on real-time pathogen surveillance, as well as a proposal for building the necessary infrastructure to deliver insights from genomic data.
+
 ## Abstract
 
 This whitepaper proposes an implementation on the current state-of-the-art on real-time pathogen surveillance, as well as a proposal for building the necessary infrastructure to deliver insights from genomic data.
