@@ -36,13 +36,13 @@ The core challenges that remain for the MinION, as applied to genomic surveillan
 2. labour, and hence time required, for sample preparation, and
 3. target enrichment from mixed samples.
 
-Additionally, the MinION still requires improvements to its read accuracy. While the sequence reads are sufficiently accurate to detect antimicrobial resistance gene cassettes, it still does not have the necessary accuracy to identify point mutations associated with antibiotic resistance[@Judge:2015jr]. Estimates for read accuracy currently are between 60%-85%, as determined by pilot studies[@Hoenen:2016fo; @Ashton:2015ff]. Better modelling will enable fast read mapping[@Loose:2016gr] and greater accuracy[@Jain:2015ij], greatly increasing the value of deploying these sequencers.
+Additionally, the MinION still requires improvements to its read accuracy. While the sequence reads are sufficiently accurate to detect antimicrobial resistance gene cassettes, it still does not have the necessary accuracy to identify point mutations associated with antibiotic resistance[@Judge:2015jr]. Estimates for read accuracy currently are between 60%-85%, as determined by pilot studies[@Hoenen:2016fo; @Ashton:2015ff]. Better modelling will enable fast read mapping[@Loose:2016gr] to reference sequences and greater accuracy[@Jain:2015ij], greatly increasing the value of deploying these sequencers. In the long-run, being able to resolve single nucleotide differences on portable sequencers would be considered most ideal.
 
 ### Sequence Databases
 
 Without publicly accessible sequence databases, the sequence data collected remain of little utility to the broader scientific community. Publicly accessible sequence databases enable meta- and global studies of pathogens[@Ma:2016ht; @Wertheim:2013de], and data mining can be conducted where rich metadata are available.
 
-The influenza research and surveillance community has the **Influenza Research Database**[@Squires:2012fx] as a public repository of viral sequences isolated through surveillance efforts globally. Here, not only are the sequences stored, valuable metadata including date and country of collection, and the viral host, are stored and easily accessible in the default interface. Additional ecological metadata are also stored, such as the age of wild birds when collecting, enabling studies into the interplay between host and viral ecology[@Hill:2016dh; @Bahl:2016efa]. 
+The influenza research and surveillance community has the **Influenza Research Database**[@Squires:2012fx] as a public repository of viral sequences isolated through surveillance efforts globally. Here, not only are the sequences stored, valuable metadata including date and country of collection, and the viral host, are stored and easily accessible in the default interface. Additional ecological metadata are also stored, such as the age of wild birds when collecting, enabling studies into the interplay between host and viral ecology[@Hill:2016dh; @Bahl:2016efa].
 
 The HIV research community also has benefited from the **HIV Sequence Database** maintained by the Los Alamos National Laboratory (http://www.hiv.lanl.gov/content/index), as well as the **Stanford HIV Drug Resistance Database** (http://hivdb.stanford.edu). In particular, the utility of a drug resistance database has been articulated[@Shafer:2006go], including the identification of genomic correlates of drug resistance. From the perspective of genomic surviellance, the sharing of this data has enabled the development of machine learning tools that can automatically predict viral properties from sequence[@Hepler:2014fy], which can enable rapid prediction, or even identification, of drug resistant strains in a patient's viral pool.
 
@@ -50,7 +50,9 @@ The HIV research community also has benefited from the **HIV Sequence Database**
 
 ### Purpose of Phenotypic Surveillance
 
-The canonical use of phenotypic surveillance are to determine the drug resistance profile of a pathogen. Such data are obtained by isolating the pathogen of interest and culturing them in the presence of an antimicrobial drug. 
+<!--Main point: Why do phenotypic surveillance -->
+
+The canonical use of phenotypic surveillance are to determine the drug resistance profile of a pathogen. Such data are usually obtained by isolating the pathogen of interest and culturing them in the presence of an antimicrobial drug. For example, bacterial pathogens are cultured under antibiotic selective media to identify whether it is phenotypically 
 
 ## Case Studies
 
