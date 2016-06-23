@@ -13,7 +13,7 @@ This whitepaper describes the current state-of-the-art on real-time pathogen sur
 
 ## Abstract
 
-This whitepaper proposes an implementation on the current state-of-the-art on real-time pathogen surveillance, as well as a proposal for building the necessary infrastructure to deliver insights from genomic data.
+One goal of genomic surveillance is to predict the potential harm to human health that a pathogen can inflict, based on its sequence. Having this ability could dramatically reduce the time required to determine drug resistance, antigenic sensitivity, and perhaps even virulence. One potential way to accomplish this is to use machine learning to learn the mapping from viral sequence to phenotype. However, the data necessary to accomplish this are not available. Here, we propose a "generic" experimental strategy for systematically characterizing a protein for its biochemical phenotype, and propose a few ways that machine learning methods may be integrated with the data as part of a surveillance dashboard.
 
 ## Genomic Surveillance for Viral Infectious Agents
 
