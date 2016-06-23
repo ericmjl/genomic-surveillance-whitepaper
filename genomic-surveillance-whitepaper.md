@@ -56,7 +56,13 @@ The HIV research community also has benefited from the **HIV Sequence Database**
 
 <!--Main point: Why do phenotypic surveillance -->
 
-The canonical use of phenotypic surveillance are to determine the drug resistance profile of a pathogen. Such data are usually obtained by isolating the pathogen of interest and culturing them in the presence of an antimicrobial drug. For example, bacterial pathogens are cultured under antibiotic selective media to identify whether it is phenotypically 
+The canonical use of phenotypic surveillance are to determine the drug resistance profile of a pathogen. Such data are usually obtained by isolating the pathogen of interest and culturing them in the presence of an antimicrobial drug. For example, bacterial pathogens are cultured under antibiotic selective media to identify whether it is resistant to that antibiotic. Similar experiments can be conducted for viruses to determine drug resistance, such as for the influenza neuraminidase[@Eichelberger:2008ij].
+
+Beyond drug resistance, other clinically- or epidemiologically-relevant phenotypes may be of interest. For influenza, there are two examples. One is the antigenic distance of an influenza virus to vaccine strains[@Smith:2004jc]; such data are used in the recommendation for updating vaccine strains (See *Fonville et. al.*[@Fonville:2014fr] and the [CDC Website](http://www.cdc.gov/flu/about/season/vaccine-selection.htm).) Antigenic distance is essentially a property of the protein sequence and fold, hence it is, in principle, predictable from sequence, though the current models that do so[@Pan:2011gb] have room for improvement.
+
+The other is pathogenic load. Particular point mutants of the influenza PB2 protein (part of the polymerase complex) has been associated with weight loss, increased immune response, and lung viral titers in mice[@Mok:2011cq]. Likewise, other point mutations in the polymerase genes have been associated with increased replication rate *in vitro*[@Hussein:2016dc; @Fan:2014er; @Subbarao:1993tt; @Mehle:2009ee].
+
+Both assays have been widely used in the literature, but their formats have not been standardized (e.g. different baseline controls, modified procedures). This is understandable, as research groups have access to different baseline viruses. As such, genetic associations with particular phenotypes can only be assessed in an ad-hoc fashion.
 
 ## Case Studies
 
