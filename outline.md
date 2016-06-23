@@ -10,6 +10,10 @@
     1. Defining phenotypic surveillance:
         1. Beyond drug susceptibility testing: determining biochemical properties of a virus' set of proteins.
     1. Most common use case: antibiotic drug resistance determination. (#citation required)
+1. Mapping Genotype to Phenotype
+    1. Goals
+    2. Case 1: HIV Drug Resistance
+    3. Case 2: Influenza Neuraminidase Drug Resistance
 1. Case studies: where has genomic surveillance been used? 
     1. Ebola outbreak of 2014/2015
     1. Zika outbreak of 2015/2016
