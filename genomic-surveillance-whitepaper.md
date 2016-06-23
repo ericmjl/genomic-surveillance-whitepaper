@@ -1,5 +1,5 @@
 ---
-title: "Connecting Genotypic and Phenotypic Measurements for Real-Time Pathogen Surveillance"
+title: "Genotypic and Phenotypic Measurements for Real-Time Pathogen Surveillance"
 author: 
 - "Eric J. Ma (MIT)"
 - "Jonathan A. Runstadler (MIT)"
