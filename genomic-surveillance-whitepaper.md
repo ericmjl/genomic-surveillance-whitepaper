@@ -62,7 +62,7 @@ Beyond drug resistance, other clinically- or epidemiologically-relevant phenotyp
 
 The other is pathogenic load. Particular point mutants of the influenza PB2 protein (part of the polymerase complex) has been associated with weight loss, increased immune response, and lung viral titers in mice[@Mok:2011cq]. Likewise, other point mutations in the polymerase genes have been associated with increased replication rate *in vitro*[@Hussein:2016dc; @Fan:2014er; @Subbarao:1993tt; @Mehle:2009ee].
 
-Both assays have been widely used in the literature, but their formats have not been standardized (e.g. different baseline controls, modified procedures). This is understandable, as research groups have access to different baseline viruses. As such, genetic associations with particular phenotypes can only be assessed in an ad-hoc fashion.
+Both assays have been widely used in the literature, but their formats have not been standardized (e.g. different baseline controls, modified procedures). This is understandable, as research groups have access to different baseline viruses. As such, genetic associations with particular phenotypes can only be assessed in an ad-hoc fashion. This type of data has been useful to a certain extent, and published ad-hoc studies have led to the development of Sequence Feature Variant Types (SVFTs) in the [IRD](http://www.fludb.org/brc/influenza_sequenceFeatureVariantTypes_search.spg?method=ShowCleanSearch&decorator=influenza). These data have been used to identify associations between influenza NS1 protein variants and host range[@Noronha:2012hc], but the data suffer from collection biases and a lack of standardized controls on which fair comparisons between them can be made.
 
 ## Case Studies
 
