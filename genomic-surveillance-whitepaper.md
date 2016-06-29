@@ -1,8 +1,10 @@
 ---
 title: "Genotypic and Phenotypic Measurements for Real-Time Pathogen Surveillance"
 author: 
-- "Eric J. Ma (MIT)"
-- "Jonathan A. Runstadler (MIT)"
+- name: "Eric J. Ma"
+  affiliation: MIT
+- name: "Jonathan A. Runstadler"
+  affiliation: "MIT"
 date: 22 June 2016
 csl: nature.csl
 ---
