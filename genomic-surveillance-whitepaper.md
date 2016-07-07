@@ -93,6 +93,7 @@ The 2014 Ebola outbreak in Western Africa (mainly in Guinea, Liberia, Sierra Leo
 
 ## Challenges Ahead
 
+- The inherent tension between the goals of extinguishing an outbreak asap, vs. collecting sufficient numbers of patients and data for vaccine & drug development, etc. [@Cohen:2016fza]
 
 ## The missing pieces
 
