@@ -68,7 +68,11 @@ Both assays have been widely used in the literature, but their formats have not 
 
 ## Case Studies
 
-In this section, I outline cases where genomic surveillance helped us gain a scientific understanding of an outbreak.
+In this section, I summarize cases where genomic surveillance helped us gain a scientific understanding of an outbreak. Each section is structured as follows:
+
+1. Where/when was the outbreak? (Location/Time)
+1. Who led the outbreak genomic surveillance efforts? (People)
+1. What insights into the virus have been gained using mutational data? (Insights)
 
 ### Ebola Outbreak
 
