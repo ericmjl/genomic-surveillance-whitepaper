@@ -76,7 +76,14 @@ In this section, I summarize cases where genomic surveillance helped us gain a s
 
 ### Ebola Outbreak
 
-For example, post-outbreak analysis of Ebola genomes showed that cross-border introduction was not a major factor in the outbreak progression[@Park:2015cw].
+**Location/Time**
+
+The 2014 Ebola outbreak started in the 
+
+**Who led the outbreak genomic surveillance efforts?**
+
+The 2014 Ebola outbreak in Western Africa (mainly in Guinea, Liberia, Sierra Leone) received much scientific attention as well. Soon after the outbreak was reported, Pardis Sabeti's group quickly led efforts to sequence the virus, and committed to publicly releasing the sequencing data as soon as it was acquired.
+
 
 ### Zika Outbreak
 
