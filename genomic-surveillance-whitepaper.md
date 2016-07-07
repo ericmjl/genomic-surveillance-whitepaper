@@ -91,6 +91,9 @@ The 2014 Ebola outbreak in Western Africa (mainly in Guinea, Liberia, Sierra Leo
 
 ### Seasonal Influenza
 
+## Challenges Ahead
+
+
 ## The missing pieces
 
 <!--Is deep mutational scanning a useful thing to do for genomic surveillance? Refer to Jesse Bloom's papers. -->
