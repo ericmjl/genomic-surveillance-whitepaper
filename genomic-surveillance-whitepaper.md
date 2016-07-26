@@ -84,6 +84,7 @@ The 2014 Ebola outbreak started in the
 
 The 2014 Ebola outbreak in Western Africa (mainly in Guinea, Liberia, Sierra Leone) received much scientific attention as well. Soon after the outbreak was reported, Pardis Sabeti's group quickly led efforts to sequence the virus, and committed to publicly releasing the sequencing data as soon as it was acquired.
 
+**What insights were gained from surveillance?**
 
 ### Zika Outbreak
 
