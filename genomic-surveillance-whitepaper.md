@@ -1,6 +1,6 @@
 ---
 title: "Genotypic and Phenotypic Measurements for Real-Time Pathogen Surveillance"
-author: 
+author:
 - name: "Eric J. Ma"
   affiliation: MIT
 - name: "Jonathan A. Runstadler"
@@ -78,7 +78,7 @@ In this section, I summarize cases where genomic surveillance helped us gain a s
 
 **Location/Time**
 
-The 2014 Ebola outbreak started in the 
+The 2014 Ebola outbreak started in the
 
 **Who led the outbreak genomic surveillance efforts?**
 
