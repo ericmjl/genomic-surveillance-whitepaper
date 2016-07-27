@@ -97,13 +97,13 @@ Some unique features of the Sabeti lab's efforts was their radical transparency 
 
 Apart from the two in-depth studies on Ebola, the outbreak also served as a testing ground for new technologies. In a study [@Quick:2015ko] led by Joshua Quick, the MinION sequencer was deployed during the outbreak, and data from the sequencing efforts showed that sequences could be obtained within 24 hours of sample collection. While the MinION currently still suffers from read accuracy issues, this test clearly illustrated the future possibility of real-time genomic surveillance.
 
-Taking the 2014 Ebola outbreak as an example, it is clear that the best insights that we can gain from genome sequences, where no phenotypic data are availabe, include:
+Taking the 2014 Ebola outbreak as an example, currently the best insights that we can gain from viral genome sequences (where no systematic phenotypic data are available), include:
 
 1. Geographic movement
 1. Dating of spillover and introduction events
 1. Mapping of transmission patterns
 
-However, our ability to predict how a virus' phenotype may be altered is still limited, as noted by the absence of such predictions for the Ebola virus.
+However, our ability to predict how a virus' phenotype from sequence is still limited, as noted by the absence of such predictions for the Ebola virus.
 
 ## Zika Outbreak
 
