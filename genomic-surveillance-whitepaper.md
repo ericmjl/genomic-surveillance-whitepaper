@@ -95,6 +95,9 @@ The second study [@Park:2015cw] involved an expanded set of genome sequences fro
 
 Some unique features of the Sabeti lab's efforts was their radical transparency in releasing the genome sequences publicly, and their collaborative and public paper writing. All of the sequences were released to NCBI as soon as they were available[^ncbi], while the paper was written collaboratively with edit history on Authorea[^authorea].
 
+[^ncbi]: http://www.ncbi.nlm.nih.gov/bioproject/PRJNA257197
+[^authorea]: https://www.authorea.com/users/10734/articles/19957
+
 Apart from the two in-depth studies on Ebola, the outbreak also served as a testing ground for new technologies. In a study [@Quick:2015ko] led by Joshua Quick, the MinION sequencer was deployed during the outbreak, and data from the sequencing efforts showed that sequences could be obtained within 24 hours of sample collection. While the MinION currently still suffers from read accuracy issues, this test clearly illustrated the future possibility of real-time genomic surveillance.
 
 Taking the 2014 Ebola outbreak as an example, currently the best insights that we can gain from viral genome sequences (where no systematic phenotypic data are available), include:
@@ -120,6 +123,3 @@ However, our ability to predict how a virus' phenotype from sequence is still li
 <!--Is deep mutational scanning a useful thing to do for genomic surveillance? Refer to Jesse Bloom's papers. -->
 
 # References
-
-[^ncbi]: http://www.ncbi.nlm.nih.gov/bioproject/PRJNA257197
-[^authorea]: https://www.authorea.com/users/10734/articles/19957
