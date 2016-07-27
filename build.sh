@@ -4,7 +4,7 @@ pandoc genomic-surveillance-whitepaper.md \
   --filter="/Users/ericmjl/anaconda/bin/pandoc-fignos" \
   --filter="/Users/ericmjl/anaconda/bin/pandoc-citeproc" \
   --bibliography="papers-library.bib" \
-  --csl="nature.csl" \
+  --csl="pnas.csl" \
   --template="default.latex"
 
 open genomic-surveillance.pdf
