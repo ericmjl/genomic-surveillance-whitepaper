@@ -69,13 +69,17 @@ Both assays have been widely used in the literature, but their formats have not 
 
 # Case Studies
 
-In this section, I summarize cases where genomic surveillance helped us gain a scientific understanding of an outbreak. Each section is structured as follows:
-
-1. Where/when was the outbreak? (Location/Time)
-1. Who led the outbreak genomic surveillance efforts? (People)
-1. What insights into the virus have been gained using mutational data? (Insights)
+In this section, I summarize cases where genomic surveillance helped us gain a scientific understanding of an outbreak. Particular focus is given to the insights gained from genomic information, while also highlighting the gaps that are present.
 
 ## Ebola Outbreak
+
+In 2014, Ebola virus spread rapidly through Sierra Leone, Guinea and Liberia. This outbreak was a deadly one, with case fatality rates ranging between 43-86% (where sample sizes are greater than 5)[@Gatherer:2014fp; @Baize:2014gx; @WHOEbolaResponseTeam:2014eo]. There was considerable media attention, and this heightened fears of a global spread of this deadly virus.
+
+Genomic surveillance of the virus involved obtaining sequences from patient samples. During the outbreak, polymerase chain reaction-based (PCR) testing was widely used[@Frieden:2014fv]. On the other hand, sequencing was more difficult, with sufficient genomic material being required; in one study, only 3 patient samples that had high viral loads were sequenced[@Baize:2014gx].
+
+A pair of studies led by Pardis Sabeti's group provided a global view into the evolution of the Ebola virus during the outbreak. The first study[@Gire:2014fk] was published based on 99 genomes from 78 patients. Phylogeographic analysis of the virus helped determine that the virus (1) likely came from central Africal lineages, (2) with the time of crossing into Guinea and Sierra Leone being May 2014, and that (3) there was no evidence of additional zoonotic spillovers.
+
+The second study[@Park:2015cw] involved an expanded set of genome sequences from 232 patients in addition to 86 previously released genomes. Phylogeographic analysis showed that there was very little cross-border movement of the virus; this implied that the epidemiological intervention of closing borders would likley have little effect on the spread. Additionally, the authors found that there were intra-host genomic variants shared between patients, likely indicating that the infectious dose size was large enough to allow for this to happen. Non-synonymous mutations decreased over time, likely indicating purifying selection against deleterious variants. 
 
 ## Zika Outbreak
 
