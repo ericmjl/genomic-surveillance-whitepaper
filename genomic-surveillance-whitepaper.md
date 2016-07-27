@@ -47,7 +47,10 @@ Without publicly accessible sequence databases, the sequence data collected rema
 
 The influenza research and surveillance community has the **Influenza Research Database (IRD)** [@Squires:2012fx] as a public repository of viral sequences isolated through surveillance efforts globally. Here, not only are the sequences stored, valuable metadata including date and country of collection, and the viral host, are stored and easily accessible in the default interface. Additional ecological metadata are also stored, such as the age of wild birds when collecting, enabling studies into the interplay between host and viral ecology [@Hill:2016dh; @Bahl:2016efa].
 
-The HIV research community also has benefited from the **HIV Sequence Database** maintained by the Los Alamos National Laboratory (http://www.hiv.lanl.gov/content/index), as well as the **Stanford HIV Drug Resistance Database** (http://hivdb.stanford.edu). In particular, the utility of a drug resistance database has been articulated [@Shafer:2006go], including the identification of genomic correlates of drug resistance. From the perspective of genomic surviellance, the sharing of this data has enabled the development of machine learning tools that can automatically predict viral properties from sequence [@Hepler:2014fy], which can enable rapid prediction, or even identification, of drug resistant strains in a patient's viral pool.
+The HIV research community also has benefited from the **HIV Sequence Database** maintained by the Los Alamos National Laboratory[^lanl], as well as the **Stanford HIV Drug Resistance Database**[^hivdb]. In particular, the utility of a drug resistance database has been articulated [@Shafer:2006go], including the identification of genomic correlates of drug resistance. From the perspective of genomic surviellance, the sharing of this data has enabled the development of machine learning tools that can automatically predict viral properties from sequence [@Hepler:2014fy], which can enable rapid prediction, or even identification, of drug resistant strains in a patient's viral pool.
+
+[^lanl]: http://www.hiv.lanl.gov/content/index
+[^hivdb]: http://hivdb.stanford.edu
 
 # Phenotypic Surveillance
 
