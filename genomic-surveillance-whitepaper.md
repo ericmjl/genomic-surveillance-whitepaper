@@ -7,19 +7,20 @@ author:
   affiliation: "MIT"
 date: 22 June 2016
 csl: nature.csl
+numbersections: True
 ---
 
-## Summary
+# Summary
 
 This whitepaper describes the current state-of-the-art on (real-time) pathogen surveillance, as well as a proposal for building the necessary infrastructure to deliver insights from genomic data.
 
-## Abstract
+# Abstract
 
 One goal of genomic surveillance is to predict the potential harm to human health that a pathogen can inflict, based on its sequence. Having this ability could dramatically reduce the time required to determine drug resistance, antigenic sensitivity, and perhaps even virulence. One potential way to accomplish this is to use machine learning to learn the mapping from viral sequence to phenotype. However, the data necessary to accomplish this are not available. Here, we propose a "generic" experimental strategy for systematically characterizing a protein for its biochemical phenotype, and propose a few ways that machine learning methods may be integrated with the data as part of a surveillance dashboard.
 
-## Genomic Surveillance for Viral Infectious Agents
+# Genomic Surveillance for Viral Infectious Agents
 
-### Purpose of Genomic Surveillance
+## Purpose of Genomic Surveillance
 
 Genomic surveillance refers to the sequencing of a new viral or bacterial pathogen after its outbreak in humans. The goals (otherwise stated as the 'expected utility') of sequencing a pathogen include:
 
@@ -32,7 +33,7 @@ Sequencing an outbreak pathogen allows us to gain useful insights into its evolu
 
 This knowledge can inform epidemiology and biosecurity efforts. For example, knowing that cross-geopolitical border movement is not a factor in the spread of an agent can help a country avoid unnecessary economic damage that may result, allowing limited manpower and financial resources to be devoted to other spread prevention measures. This point, in particular, was alluded to in the 2014 Ebola outbreak[@Park:2015cw]. Additionally, crucial epidemiological parameters, such as the basic reproductive number (R~0~) of the pathogen, can be estimated simultaneously with phylogenies[@Gardy:2015fp]. As a final example, a study integrating Bayesian phylogeography with ecosystem information showed that wild birds were responsible for the spread of avian influenza between domestic birds in different geographic areas[@Bahl:2016efa]. Tightening biosecurity around animal farms would be the logical epidemiological course of action. Taken together, the value of sampling new outbreaks and continued surveillance and cannot be overstated.
 
-### Genome Sequencing
+## Genome Sequencing
 
 Crucial to genomic surveillance is the capacity to sequence pathogens soon after its isolation. While traditional Sanger and Next Generation Sequencing methods have been used, here I would like to focus on the development of portable, handheld sequencers, exemplified by the MinION (Oxford Nanopore Technologies). With the advent of these devices, sequencing soon after isolation is rapidly becoming a possibility. Pilot experiments with MinION showed that samples can be sequenced within days of collection[@Quick:2016kf], sometimes within just 24 hours, and can return analyzable sequence reads within minutes to hours of beginning a sequence run [@Quick:2015ko]. This, in principle, opens up the possibility of rapid identification of possible pathogenic agents from a patient, potentially faster than a live culture might take.
 
@@ -44,7 +45,7 @@ The core challenges that remain for the MinION, as applied to genomic surveillan
 
 Additionally, the MinION still requires improvements to its read accuracy. While the sequence reads are sufficiently accurate to detect antimicrobial resistance gene cassettes, it still does not have the necessary accuracy to identify point mutations associated with antibiotic resistance[@Judge:2015jr]. Estimates for read accuracy currently are between 60%-85%, as determined by pilot studies[@Hoenen:2016fo; @Ashton:2015ff]. Better modelling will enable fast read mapping[@Loose:2016gr] to reference sequences and greater accuracy[@Jain:2015ij], greatly increasing the value of deploying these sequencers. In the long-run, being able to resolve single nucleotide differences on portable sequencers would be considered most ideal.
 
-### Sequence Databases
+## Sequence Databases
 
 Without publicly accessible sequence databases, the sequence data collected remain of little utility to the broader scientific community. Publicly accessible sequence databases enable meta- and global studies of pathogens[@Ma:2016ht; @Wertheim:2013de], and data mining can be conducted where rich metadata are available.
 
@@ -52,9 +53,9 @@ The influenza research and surveillance community has the **Influenza Research D
 
 The HIV research community also has benefited from the **HIV Sequence Database** maintained by the Los Alamos National Laboratory (http://www.hiv.lanl.gov/content/index), as well as the **Stanford HIV Drug Resistance Database** (http://hivdb.stanford.edu). In particular, the utility of a drug resistance database has been articulated[@Shafer:2006go], including the identification of genomic correlates of drug resistance. From the perspective of genomic surviellance, the sharing of this data has enabled the development of machine learning tools that can automatically predict viral properties from sequence[@Hepler:2014fy], which can enable rapid prediction, or even identification, of drug resistant strains in a patient's viral pool.
 
-## Phenotypic Surveillance
+# Phenotypic Surveillance
 
-### Goals and Examples of Phenotypic Surveillance
+## Goals and Examples of Phenotypic Surveillance
 
 <!--Main point: Why do phenotypic surveillance -->
 
@@ -66,7 +67,7 @@ The other is pathogenic load. Particular point mutants of the influenza PB2 prot
 
 Both assays have been widely used in the literature, but their formats have not been standardized. (By standardization, we mainly refer to having varied baseline controls, and hence normalization, but also variance in procedures.) This is understandable, as research groups have access to different baseline viruses. Nonetheless, such lack of standardization hampers comparisons between experiments. As such, genetic associations with particular phenotypes can only be assessed in an ad-hoc fashion. This type of data has been useful to a certain extent, and published ad-hoc studies have led to the development of Sequence Feature Variant Types (SVFTs) in the [IRD](http://www.fludb.org/brc/influenza_sequenceFeatureVariantTypes_search.spg?method=ShowCleanSearch&decorator=influenza). These data have been used to identify associations between influenza NS1 protein variants and host range[@Noronha:2012hc], but the data suffer from collection biases and a lack of standardized controls on which fair comparisons between them can be made. The authors also acknowledge this.
 
-## Case Studies
+# Case Studies
 
 In this section, I summarize cases where genomic surveillance helped us gain a scientific understanding of an outbreak. Each section is structured as follows:
 
@@ -74,30 +75,20 @@ In this section, I summarize cases where genomic surveillance helped us gain a s
 1. Who led the outbreak genomic surveillance efforts? (People)
 1. What insights into the virus have been gained using mutational data? (Insights)
 
-### Ebola Outbreak
+## Ebola Outbreak
 
-**Location/Time**
+## Zika Outbreak
 
-The 2014 Ebola outbreak started in the
+## Salmonella Outbreak
 
-**Who led the outbreak genomic surveillance efforts?**
+## Seasonal Influenza
 
-The 2014 Ebola outbreak in Western Africa (mainly in Guinea, Liberia, Sierra Leone) received much scientific attention as well. Soon after the outbreak was reported, Pardis Sabeti's group quickly led efforts to sequence the virus, and committed to publicly releasing the sequencing data as soon as it was acquired.
-
-**What insights were gained from surveillance?**
-
-### Zika Outbreak
-
-### Salmonella Outbreak
-
-### Seasonal Influenza
-
-## Challenges Ahead
+# Challenges Ahead
 
 - The inherent tension between the goals of extinguishing an outbreak asap, vs. collecting sufficient numbers of patients and data for vaccine & drug development, etc. [@Cohen:2016fza]
 
-## The missing pieces
+# The missing pieces
 
 <!--Is deep mutational scanning a useful thing to do for genomic surveillance? Refer to Jesse Bloom's papers. -->
 
-## References
+# References
