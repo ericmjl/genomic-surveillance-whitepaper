@@ -141,7 +141,7 @@ As seen from above two recent examples, the key genomic tool for interpreting th
 
 # Challenges Ahead
 
-- The inherent tension between the goals of extinguishing an outbreak asap, vs. collecting sufficient numbers of patients and data for vaccine & drug development, etc. [@Cohen:2016fza]
+- The inherent tension between the goals of extinguishing an outbreak asap, vs. collecting sufficient numbers of patients and data for vaccine & drug development, etc. [@Cohen:2016fza] (this is a broad tension of the field of infectious disease, not a specific one to any problem)
 
 # The missing pieces
 
