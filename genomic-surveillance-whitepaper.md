@@ -108,11 +108,11 @@ Taking the 2014 Ebola outbreak as an example, currently the best insights that w
 
 However, our ability to predict how a virus' phenotype from sequence is still limited, as noted by the absence of such predictions for the Ebola virus.
 
-## Zika Outbreak
+## Salmonella Surveillance
 
-## Salmonella Outbreak
 
-## Seasonal Influenza
+
+## Seasonal Influenza Surveillance
 
 # Challenges Ahead
 
