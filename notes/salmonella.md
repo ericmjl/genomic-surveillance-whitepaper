@@ -1,3 +1,5 @@
+# Notes on salmonella outbreak, by paper
+
 [@Quick:2015ko]
 - showed the use of a rapid MiSeq protocol on salmonella outbreak.
 - showed the use of MinION as well - able to do "species-level identification" within minutes, and within 2 hours can determine whether a pathogen is part of an outbreak or not.
@@ -22,22 +24,7 @@
 - phylogeographic analysis showed spread of antibiotic resistance genes, including those of ampicillin, trimethoprim, sulfonamides, chloramphenicol, streptomycin.
 - Learned that Quinolone (e.g. ciprofloxacine) resistance can be mediated by **non-synonymous mutations** in quinolone-resistance determining regions. Used presence of non-synonymous mutations to infer that selection was ongoing. (note: this is quite similar to the logic used for ebola)
 
-[@Struelens:2013uo]
-- WOW, this editorial essay is a really good one.
-- editorial essay on molecular and genomic epidemiology
-- Whole genome sequencing is the main thing that they highlight at the end.
-- authors claim that WGS has two key advantages:
-  - provides maximal strain discrimination (oh yeah!)
-  - can be linked to "clinically and epidemiologically relevant phenotypes"
-- Challenges for WGS include:
-  - speed
-  - data analysis
-  - interpretation: given the fast evolutionary processes that occur, the key challenge here will be the interpretation of amino acid polymorphisms and their effect on these clinically and epidemiologically relevant phenotypes
-  - cost
-- Author brings up the concept of a **"resistome"** (the set of genes involved in antimicrobial resistance) and the **"virulome"** (the set of genes linked to the virulence of an isolate).
-
-
-Overall:
+Overall Summary:
 - What was a key assumption across the studies listed here? The link between harbouring the MDR locus and drug resistance was clear, established over multiple studies.
   - I personally think this is plausible/reasonable for antibiotic resistance, given its long history of research, but it is less clear for other aspects of the pathogenic capacity of a pathogen.
 -
