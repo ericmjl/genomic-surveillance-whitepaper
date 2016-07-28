@@ -67,8 +67,6 @@ The HIV research community also has benefited from the **HIV Sequence Database**
 
 ## Goals and Examples of Phenotypic Surveillance
 
-<!--Main point: Why do phenotypic surveillance -->
-
 The canonical use of phenotypic surveillance are to determine the drug resistance profile of a pathogen. Such data are usually obtained by isolating the pathogen of interest and culturing them in the presence of an antimicrobial drug. For example, bacterial pathogens are cultured under antibiotic selective media to identify whether it is resistant to that antibiotic. Similar experiments can be conducted for viruses to determine drug resistance, such as for the influenza neuraminidase [@Eichelberger:2008ij].
 
 Beyond drug resistance, other clinically- or epidemiologically-relevant phenotypes may be of interest. For influenza, there are two examples. One is the antigenic distance of an influenza virus to vaccine strains [@Smith:2004jc]; such data are used in the recommendation for updating vaccine strains (See *Fonville et. al.* [@Fonville:2014fr] and the [CDC Website](http://www.cdc.gov/flu/about/season/vaccine-selection.htm).) Antigenic distance is essentially a property of the protein sequence and fold, hence it is, in principle, predictable from sequence, though the current models that do so [@Pan:2011gb] have room for improvement.
