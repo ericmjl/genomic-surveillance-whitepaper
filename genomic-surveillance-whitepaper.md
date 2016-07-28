@@ -6,8 +6,11 @@ author:
 - name: "Jonathan A. Runstadler"
   affiliation: "MIT"
 date: 22 June 2016
-csl: nature.csl
-numbersections: True
+csl: pnas.csl  # references style; we're using PNAS.
+numbersections: True  # numbers sections automatically
+toc: True  # table of contents
+lof: True  # list of figures
+lot: True  # list of tables
 ---
 
 # Abstract
