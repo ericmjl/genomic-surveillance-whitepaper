@@ -27,12 +27,10 @@
 Overall Summary:
 - What was a key assumption across the studies listed here? The link between harbouring the MDR locus and drug resistance was clear, established over multiple studies.
   - I personally think this is plausible/reasonable for antibiotic resistance, given its long history of research, but it is less clear for other aspects of the pathogenic capacity of a pathogen.
--
 
 http://www.cdc.gov/nationalsurveillance/salmonella-surveillance.html
 - CDC website on salmonella surveillance
 - salmonella surveillance is governed by "serotype" identification
--
 
 http://www.cdc.gov/salmonella/reportspubs/surveillance.html
 - this website shows the networks of groups that report salmonella outbreaks.
@@ -51,6 +49,3 @@ http://www.cdc.gov/salmonella/reportspubs/surveillance.html
 - Foodborne Disease Outbreak Surveillance System (FDOSS)
   - Captures outbreak data on agents, foods, and settings responsible for illness
 - Outbreak Response Team
-
-
-http://www.genomicepidemiology.org
