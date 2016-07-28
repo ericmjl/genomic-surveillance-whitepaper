@@ -117,9 +117,25 @@ Taking the 2014 Ebola outbreak as an example, currently the best insights that w
 
 However, our ability to predict how a virus' phenotype from sequence is still limited, as noted by the absence of such predictions for the Ebola virus.
 
-## Salmonella Surveillance
+## *Salmonella* Surveillance
 
+*Salmonella* surveillance has traditionally been done by pulse field gel electrophoresis. This method, however, has limited capability to discriminate between outbreak strains [@denBakker:2014ke]. Given the technologies currently available, we would hesitate to call this a "genomic" form of surveillance. In recent years, however, there have been studies that used whole genome sequencing of *salmonella*, and insights from those studies show the potential for genomic surveillance.
 
+For example, den Bakker et. al. [@denBakker:2014ke] investigated the practicality of whole genome sequencing in an outbreak setting using IonTorrent PGM sequencers. The key parameter for an outbreak scenario is the speed of sequencing; the authors were able to achieve a peak throughput of 32 samples within 8 days of sequencing.
+
+In a more recent study, Quick et. al. [@Quick:2015ko] used a rapid MiSeq protocol, cutting the sequencer runtime from 55 hours to 6 hours, though with the tradeoff of reducing the mean sequence coverage. They also used the MinION, and using the "streaming" sequencing data, they were able to a species-level identification of their *Salmonella* patient samples within minutes of sequencing, and within hours determine whether a pathogen is part of an outbreak or not.
+
+Because the MinION is capable of doing long reads, it has also been used to resolve the genomic position of antibiotic resistance islands [@Ashton:2015ff]. This undoubtedly has advantages over short read sequencing; as a whole genome sample may contain a mixture of microorganisms, long reads help with "phasing" a sequence to its genomic context.
+
+From a practitioners perspective, it is quite clear that genome sequencing technologies can be deployed in a clinical setting, and that technological and cost hurdles are progressively being removed. What remains is our capability to interpret the genome sequences appropriately.
+
+The current state-of-the-art in genome interpretation for bacterial pathogens is roughly at the same place as for viral pathogens, with antibiotic resistance genes being the only exception. There are two recent studies of distinct *Salmonella* lineages that we would like to highlight here.
+
+The first was a study of 315 *S. Typhimurium DT104* isolates sampled from 1969-2012 [@Leekitcharoenphon:2016cf]. The authors here used Bayesian phylogenetic reconstruction to identify the times of divergence and effective population size over time of the global *Salmonella* pool. Because whole genome sequence was available, they were also able to identify the movement of a 13 kilobase multi-drug resistance over space and time.
+
+A similar study was conducted for the multi-drug resistant *S. typhi* lineage H58 [@Wong:2015bi]. By using phylogeographic analysis, the authors were able to trace the spread of antibiotic resistance genes, and show that this drug resistant lineage was expanding globally over time.
+
+As seen from above two recent examples, the key genomic tool for interpreting the genome has been phylogenetic methods. This is similar to the state-of-the-art in viral surveillance. Phenotypic interpretation remains limited to antibiotic resistance, for this has been one phenotype where the presence or absence of a single gene (and its variants) is sufficient to confer a resistance phenotype. Other aspects of *Salmonella*'s virulence have not been amenable to interpretation, and hence the prevailing literature does not deal with this.
 
 ## Seasonal Influenza Surveillance
 
