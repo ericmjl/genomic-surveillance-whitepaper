@@ -5,7 +5,6 @@ pandoc genomic-surveillance-whitepaper.md \
   --filter="pandoc-tablenos" \
   --filter="pandoc-citeproc" \
   --bibliography="papers-library.bib" \
-  --csl="pnas.csl" \
   --template="default.latex"
 
 open genomic-surveillance.pdf
