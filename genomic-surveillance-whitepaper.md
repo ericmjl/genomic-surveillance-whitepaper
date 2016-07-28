@@ -83,7 +83,7 @@ Table: Table schema of data required for interpreting phenotype from genotype. {
 
 In this section, we summarize cases where genomic surveillance helped us gain a scientific understanding of a pathogen. Particular focus is given to the insights gained from genomic information, while also highlighting the gaps that are present.
 
-## Ebola Outbreak
+## Ebola Surveillance
 
 In 2014, Ebola virus spread rapidly through Sierra Leone, Guinea and Liberia. This outbreak was a deadly one, with case fatality rates ranging between 43-86% (where sample sizes are greater than 5) [@Gatherer:2014fp; @Baize:2014gx; @WHOEbolaResponseTeam:2014eo]. There was considerable media attention, and this heightened fears of a global spread of this deadly virus.
 
