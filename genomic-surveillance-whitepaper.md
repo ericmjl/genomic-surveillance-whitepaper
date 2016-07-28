@@ -12,7 +12,7 @@ numbersections: True
 
 # Abstract
 
-One goal of genomic surveillance is to predict the potential harm to human health that a pathogen can inflict, based on its sequence. Having this ability could dramatically reduce the time required to determine drug resistance, antigenic sensitivity, and perhaps even virulence. One potential way to accomplish this is to use machine learning to learn the mapping from viral sequence to phenotype. However, the data necessary to accomplish this are not available. Here, we outline the state-of-the-art in genomic data collection and insight generation. We also propose a "generic" experimental strategy for systematically characterizing a protein for its biochemical phenotype, and propose a way to integrate machine learning methods with the data as part of a surveillance dashboard.
+One goal of genomic surveillance is to predict the potential harm to human health that a pathogen can inflict, based on its sequence. Having this ability could dramatically reduce the time required to determine drug resistance, antigenic sensitivity, and perhaps even virulence. One potential way to accomplish this is to use machine learning to learn the mapping from viral sequence to phenotype. However, the data necessary to accomplish this are not available. Here, we outline the state-of-the-art in genomic data collection and pathogen characterization. We also propose an experimental strategy for systematically characterizing a protein for its biochemical phenotype, argue for its relevance in making predictions about the virulence of a pathogen, and propose a way to integrate machine learning methods with the data as part of a surveillance dashboard.
 
 # Genomic Surveillance for Viral Infectious Agents
 
