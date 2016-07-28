@@ -81,7 +81,7 @@ Table: Table schema of data required for interpreting phenotype from genotype. {
 
 # Case Studies
 
-In this section, we summarize cases where genomic surveillance helped us gain a scientific understanding of an outbreak. Particular focus is given to the insights gained from genomic information, while also highlighting the gaps that are present.
+In this section, we summarize cases where genomic surveillance helped us gain a scientific understanding of a pathogen. Particular focus is given to the insights gained from genomic information, while also highlighting the gaps that are present.
 
 ## Ebola Outbreak
 
