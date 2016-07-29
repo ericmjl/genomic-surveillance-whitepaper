@@ -7,4 +7,4 @@ pandoc genomic-surveillance-whitepaper.md \
   --bibliography="papers-library.bib" \
   --template="default.latex"
 
-open genomic-surveillance.pdf
+# open genomic-surveillance.pdf
