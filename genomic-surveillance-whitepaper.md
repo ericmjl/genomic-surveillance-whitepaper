@@ -83,17 +83,6 @@ Both assays have been widely used in the literature, but their formats have not 
 
 By contrast, the HIV Drug Resistance Database contains a wealth of densely measured drug resistance phenotype data for more than 10^3^-10^4^ viral isolates. On the basis of this data, multiple papers have been published that investigate the performance of a variety of algorithms on classifying HIV drug resistance from sequence [@Beerenwinkel:2002cza; @Harrison:2013hs; @Heider:2013gd; @Heider:2011bf; @Wu:2011iv; @Prosperi:2009ua; @Heider:2010io]. While there are weaknesses in each approach (e.g. learning capacity, interpretability), it is clear that the computational technology required for making such predictions are available.
 
-**Proper phenotypic interpretation from sequence requires a comprehensive and representative comparison set.** The key gap here is the lack of a systematically standardized set of phenotype measurements that are paired with gene sequences. By representative, we mean that the sequences present in the dataset are those that are evolutionarily successful. By comprehensive, we mean that there should be coverage of all known mutations that from successful isolates. The data that are required essentially are a densely measured matrix of sequence (large `n` >10^3^) by phenotype, as illustrated in the Table {@tbl:schema}.
-
-| Sequence | Pheno1 | Pheno2 | Pheno3 | Pheno4 |
-|----------|--------|--------|--------|--------|
-| MKLV...  | 1.9    | 1.8    | 2.4    | 1.8    |
-| MKLR...  | 2.2    | 2.7    | 10.3   | 1.9    |
-| MRLV...  | 2.5    | 2.7    | 2.3    | 1.9    |
-|   ...    | ...    | ...    | ...    | ...    |
-
-Table: Table schema of data required for rationally and systematically interpreting phenotype from genotype. {#tbl:schema}
-
 # Case Studies
 
 In this section, we summarize cases where genomic surveillance helped us gain a scientific understanding of a pathogen. Particular focus is given to the insights gained from genomic information, while also highlighting the gaps that are present.
@@ -150,6 +139,17 @@ As seen from above two recent examples, the key genomic tool for interpreting th
 - The inherent tension between the goals of extinguishing an outbreak asap, vs. collecting sufficient numbers of patients and data for vaccine & drug development, etc. [@Cohen:2016fza] (this is a broad tension of the field of infectious disease, not a specific one to any problem)
 
 # The missing pieces
+
+**Proper phenotypic interpretation from sequence requires a comprehensive and representative comparison set.** The key gap here is the lack of a systematically standardized set of phenotype measurements that are paired with gene sequences. By representative, we mean that the sequences present in the dataset are those that are evolutionarily successful. By comprehensive, we mean that there should be coverage of all known mutations that from successful isolates. The data that are required essentially are a densely measured matrix of sequence (large `n` >10^3^) by phenotype, as illustrated in the Table {@tbl:schema}.
+
+| Sequence | Pheno1 | Pheno2 | Pheno3 | Pheno4 |
+|----------|--------|--------|--------|--------|
+| MKLV...  | 1.9    | 1.8    | 2.4    | 1.8    |
+| MKLR...  | 2.2    | 2.7    | 10.3   | 1.9    |
+| MRLV...  | 2.5    | 2.7    | 2.3    | 1.9    |
+|   ...    | ...    | ...    | ...    | ...    |
+
+Table: Table schema of data required for rationally and systematically interpreting phenotype from genotype. {#tbl:schema}
 
 <!--Is deep mutational scanning a useful thing to do for genomic surveillance? Refer to Jesse Bloom's papers. -->
 
