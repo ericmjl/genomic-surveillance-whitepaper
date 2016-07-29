@@ -40,7 +40,7 @@ From a public health perspective, a valuable outcome of genomic surveillance is 
 
 As we will argue later in this white paper, the crucial systematic data link between genotype and phenotype is missing for a broad range of relevant phenotypes (red arrows in Figure {@fig:geno-policy}), with HIV drug resistance being the only exception known.
 
-Sequencing an outbreak pathogen also allows us to gain useful insights into its evolutionary history. Integrating the data together can help us identify the viruses that share a common ancestor with the outbreak virus and its probable geographic movement history [@Lemey:2010eu; @Lemey:2009wn; @Fusaro:2011eg].
+Sequencing an outbreak pathogen also allows us to gain useful insights into its evolutionary history. Integrating the new viral sequence data together with existing ones can help us identify the viruses that share a common ancestor with the outbreak virus and its probable geographic movement history [@Lemey:2010eu; @Lemey:2009wn; @Fusaro:2011eg].
 
 This knowledge can inform epidemiology and biosecurity efforts. For example, knowing that cross-geopolitical border movement is not a factor in the spread of an agent can help a country avoid unnecessary economic damage that may result, allowing limited manpower and financial resources to be devoted to other spread prevention measures. This point, in particular, was alluded to in the 2014 Ebola outbreak [@Park:2015cw].
 
