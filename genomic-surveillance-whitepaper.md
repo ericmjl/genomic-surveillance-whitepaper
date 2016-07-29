@@ -13,15 +13,15 @@ lof: True  # list of figures
 lot: True  # list of tables
 ---
 
-# Abstract
-
-One goal of genomic surveillance is to predict the potential harm to human health that a pathogen can inflict, based on its sequence. Having this ability could dramatically reduce the time required to determine drug resistance, antigenic sensitivity, and perhaps even virulence. One potential way to accomplish this is to use machine learning to learn the mapping from viral sequence to phenotype. However, the data necessary to accomplish this are not available. Here, we broadly outline the state-of-the-art in genomic data collection, data warehousing, and pathogen characterization. We also propose an experimental strategy for systematically characterizing a protein for its biochemical phenotype, argue for its relevance in interpreting a pathogen's genome for virulence and pathogenicity, and propose a way to integrate machine learning methods with the data as part of a surveillance dashboard.
-
 # Key Points Overview
 
 1. We are at a stage where genomic sequencing of outbreak pathogens is becoming routine for bacterial and viral pathogens.
 1. The key challenge we will face is in interpreting the sequence data beyond phylogenetic reconstructions. The ideal would be inferring a pathogen's virulence.
 1. We argue that significant investments are needed to generate a densely measured and appropriately standardized dataset of phenotype measurements paired with the appropriate sequences.
+
+# Abstract
+
+One goal of genomic surveillance is to predict the potential harm to human health that a pathogen can inflict, based on its sequence. Having this ability could dramatically reduce the time required to determine drug resistance, antigenic sensitivity, and perhaps even virulence. One potential way to accomplish this is to use machine learning to learn the mapping from viral sequence to phenotype. However, the data necessary to accomplish this are not available. Here, we broadly outline the state-of-the-art in genomic data collection, data warehousing, and pathogen characterization, and find that our capability to perform phenotypic interpretation of genomic data is limited by available comparison data. We also propose an experimental strategy for systematically characterizing a protein for its biochemical phenotype, argue for its relevance in interpreting a pathogen's genome for virulence, and propose a way to integrate machine learning methods with the data as part of a surveillance dashboard.
 
 # Genomic Surveillance for Infectious Disease Agents
 
